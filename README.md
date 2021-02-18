@@ -1,2 +1,2 @@
-# muyarchi
+# Muyarchi
 Here we promote sport
